@@ -188,6 +188,7 @@ strong {
     height: 200px;
     padding: 30px;
     margin: auto;
+    max-width: 100%;
 }
 .caixa-odm {
     background-color: white;

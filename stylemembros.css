@@ -129,9 +129,10 @@ nav > a:hover {
     margin-bottom: 20px;
 }
 .img-cap {
-    max-height: 400px;
-    max-width: 400px;
+    max-width: 600px;
+    min-width: 200px;
     object-fit: cover;
+    width: 100%;
 }
 .p-apresentacao {
     color: var(--cor1);

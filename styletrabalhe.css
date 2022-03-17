@@ -146,7 +146,7 @@ nav > a:hover {
     margin: 30px;
 }
 .img {
-    height: 30px;
+    max-height: 30px;
 }
 .botao {
     background-color: #FC7649;
@@ -164,7 +164,7 @@ nav > a:hover {
     color: var(--cor1);
 }
 .img-trabalho {
-    max-height: 300px;
+    max-width: 100%;
 }
 .caixa-descricao {
     background-color: white;
